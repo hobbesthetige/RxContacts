@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.framework  = "Foundation" ,"Contacts"
 
   s.static_framework = true
-  s.dependency 'RxSwift', '~> 4'
-  s.dependency 'RxCocoa', '~> 4'
+  s.dependency 'RxSwift', '~> 5'
+  s.dependency 'RxCocoa', '~> 5'
 
 end
